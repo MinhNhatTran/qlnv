@@ -43,3 +43,5 @@ Pass: 1234 (By Default, User can change if they wish)
 
 
 Ignore the noob level coding. ^_^
+
+# unzip vendor/fontawesome-tree/svgs/svgs.zip
